@@ -1,2 +1,1 @@
-# springboot-websocket-demo
-##springboot2.0.5 点对点，群发
+基于springboot2.0.5的websocket支持点对点，群发
